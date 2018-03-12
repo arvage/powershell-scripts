@@ -1,10 +1,6 @@
 ## Automatic Reply Setup Tool"
 
-##### Main Configuration #####
 ##############################
-$domain = "your_domain_name"
-$domainController = "your_DC_IP_OR_DNS_NAME"
-$DCpath = "PATH_TO_OU"       ## e.g. "OU=SBS Users,OU=Users,OU=MyBusiness,DC=google,DC=com"
 $exchangeServer = "XNG13CAS01" 
 ##############################
 
