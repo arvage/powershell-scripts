@@ -1,5 +1,5 @@
 
-## Convert tool for regular mailbox to shared or other way"
+## Convert tool for regular mailbox on local exchange"
 ## This PS will gives you the option to convert a regular email to a shared mailbox and give give full access to another account for send/receive.
 ## it also comes with email forwarding in case you need to convert and forward incoming emails.
 ## 
